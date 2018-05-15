@@ -1,0 +1,10 @@
+C:\Users\Austin\Documents\Tipski\bin\Debug\netcoreapp2.0\Tipski.deps.json
+C:\Users\Austin\Documents\Tipski\bin\Debug\netcoreapp2.0\Tipski.runtimeconfig.json
+C:\Users\Austin\Documents\Tipski\bin\Debug\netcoreapp2.0\Tipski.runtimeconfig.dev.json
+C:\Users\Austin\Documents\Tipski\bin\Debug\netcoreapp2.0\Tipski.dll
+C:\Users\Austin\Documents\Tipski\bin\Debug\netcoreapp2.0\Tipski.pdb
+C:\Users\Austin\Documents\Tipski\obj\Debug\netcoreapp2.0\Tipski.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Documents\Tipski\obj\Debug\netcoreapp2.0\Tipski.AssemblyInfoInputs.cache
+C:\Users\Austin\Documents\Tipski\obj\Debug\netcoreapp2.0\Tipski.AssemblyInfo.cs
+C:\Users\Austin\Documents\Tipski\obj\Debug\netcoreapp2.0\Tipski.dll
+C:\Users\Austin\Documents\Tipski\obj\Debug\netcoreapp2.0\Tipski.pdb
